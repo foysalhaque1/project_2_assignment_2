@@ -75,7 +75,7 @@ class HomeScreen extends StatelessWidget {
                 radius: 60,
                 child: IconButton(
                     iconSize: 50,
-                    style: IconButton.styleFrom(minimumSize: Size(80, 60)),
+                    style: IconButton.styleFrom(minimumSize: Size(70, 60)),
                     onPressed: () {},
                     icon: Icon(Icons.egg_outlined)),
               ),
