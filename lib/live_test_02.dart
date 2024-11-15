@@ -40,7 +40,7 @@ class Home extends StatelessWidget{
               child: Icon(Icons.bloodtype_outlined,
               size: 65,color: Colors.red,),
             ),
-            SizedBox(height: 20,),
+            SizedBox(height: 21,),
             Text('Donate Blood',style: TextStyle(fontWeight:FontWeight.bold ),)
           ],
         ),
